@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "230514606741",
+    "project_id": "fir-curdapp-75101",
+    "storage_bucket": "fir-curdapp-75101.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:230514606741:android:2769f40f132a859aa2119c",
+        "android_client_info": {
+          "package_name": "com.example.workshop6"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "230514606741-f0cuadpdtrolbrjabbu3u1oie99k5r8q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8fbLZ6YukDBl3zMUbE1wbQO6zpxm4KMo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "230514606741-f0cuadpdtrolbrjabbu3u1oie99k5r8q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
